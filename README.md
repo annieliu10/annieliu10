@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # About Me
-I am Annie, a second year business and computer science student studying at UBC. I am intrigued by the possibilities bridged by finance and computer science, hence, I recently made an application CryptoConvenient to assist individuals with their digital investments. 
+I am Annie, a second year business and computer science student studying at UBC. I am intrigued by the possibilities bridged by finance and computer science, hence, I recently made an application CryptoConvenient to assist individuals with their digital investments. <br />
+
 😄 Pronouns: She/Her<br />
 🌎 Originally from Calgary, Alberta<br />
 🤓 Tech enthusiast<br />
