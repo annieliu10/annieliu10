@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**annieliu10/annieliu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I am Annie, a second year business and computer science student studying at UBC. I am intrigued by the possibilities bridged by finance and computer science, hence, I recently made an application CryptoConvenient to assist individuals with their digital investments. 
+😄 Pronouns: She/Her<br />
+🌎 Originally from Calgary, Alberta<br />
+🤓 Tech enthusiast<br />
+⭐️ Knowledge in Java, Python, HTML, JS, CSS<br />
+📸 Street + Portrait photographer, planning to work with photos I have taken in my next project! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me
+Feel free to reach out to me via annieyt8880@gmail.com and connect on [Linkedin](https://www.linkedin.com/in/annie-liu-055b44195/)! ☺️
+
+
