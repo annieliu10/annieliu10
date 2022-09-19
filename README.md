@@ -6,7 +6,7 @@ I am Annie, a senior year business and computer science student studying at UBC.
 😄 Pronouns: She/Her<br />
 🌎 Originally from Calgary, Alberta<br />
 🤓 Tech enthusiast<br />
-⭐️ Knowledge in Java, Python, HTML, JS, CSS<br />
+⭐️ Knowledge in Golang, Java, Python<br />
 📸 Street + Portrait photographer, planning to work with photos I have taken in my next project! 
 
 
