@@ -7,7 +7,7 @@ I am Annie, a senior year business and computer science student studying at UBC.
 🌎 Originally from Calgary, Alberta<br />
 🤓 Tech enthusiast<br />
 ⭐️ Knowledge in Golang, Java, Python<br />
-📸 Street + Portrait photographer, planning to work with photos I have taken in my next project! 
+📸 Street + Portrait photographer
 
 
 # Contact me
